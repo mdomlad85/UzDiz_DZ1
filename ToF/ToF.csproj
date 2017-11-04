@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{75AC8CFA-9030-4423-9C1F-74E7F737CA29}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ToF</RootNamespace>
+    <AssemblyName>ToF</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Adapter\AkcijskiUredjaj.cs" />
+    <Compile Include="Builder\NasumicniTofSustavBuilder.cs" />
+    <Compile Include="Builder\ITofSustavBuilder.cs" />
+    <Compile Include="Builder\Dz1TofSustavBuilder.cs" />
+    <Compile Include="Builder\Prototype\TofSustav.cs" />
+    <Compile Include="Iznimke\NemaDostaUredjaja.cs" />
+    <Compile Include="Builder\Prototype\TofSustavPrototype.cs" />
+    <Compile Include="Builder\TofSustavDirector.cs" />
+    <Compile Include="Iznimke\TofSustavNijeSpreman.cs" />
+    <Compile Include="Extensions\TofIEnumerableExtension.cs" />
+    <Compile Include="FactoryMethod\Uredjaji\IUredjajAkcija.cs" />
+    <Compile Include="FactoryMethod\Uredjaji\UredjajBoolIzvrsavanje.cs" />
+    <Compile Include="FactoryMethod\Uredjaji\UredjajRazlomljeno5Izvrsavanje.cs" />
+    <Compile Include="FactoryMethod\Uredjaji\UredjajRazlomljeno1Izvrsavanje.cs" />
+    <Compile Include="FactoryMethod\Uredjaji\UredjajCjelobrojnoIzvrsavanje.cs" />
+    <Compile Include="FactoryMethod\Uredjaji\TvornicaUredjaja.cs" />
+    <Compile Include="FactoryMethod\Uredjaji\TofTvornicaUredjaja.cs" />
+    <Compile Include="Extensions\FileExstension.cs" />
+    <Compile Include="FactoryMethod\Testeri\ITesterUredjaja.cs" />
+    <Compile Include="FactoryMethod\Testeri\TvornicaTestera.cs" />
+    <Compile Include="FactoryMethod\Testeri\NasumicniTester.cs" />
+    <Compile Include="FactoryMethod\Testeri\HibridniTester.cs" />
+    <Compile Include="FactoryMethod\Testeri\SekvencijalniTester.cs" />
+    <Compile Include="FactoryMethod\Testeri\TofTvornicaTestera.cs" />
+    <Compile Include="Iznimke\NepoznataVrstaUredjaja.cs" />
+    <Compile Include="Iznimke\NepoznatTipTestera.cs" />
+    <Compile Include="Model\Enumi.cs" />
+    <Compile Include="Iznimke\LosRedakIzDatoteke.cs" />
+    <Compile Include="Model\Mjesto.cs" />
+    <Compile Include="Model\Postavke.cs" />
+    <Compile Include="Adapter\Uredjaj.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Singleton\AplikacijskiPomagac.cs" />
+    <Compile Include="Iznimke\NeispravniUlazniArgumenti.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
