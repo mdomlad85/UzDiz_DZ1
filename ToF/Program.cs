@@ -5,6 +5,7 @@ using ToF.Builder.Prototype;
 using ToF.FactoryMethod;
 using ToF.Model;
 using ToF.Singleton;
+using ToF.Vendor;
 
 namespace ToF
 {
@@ -17,32 +18,47 @@ namespace ToF
                 var dzTofDirektor = new TofSustavDirector(new Dz1TofSustavBuilder(), args);
                 dzTofDirektor.KreirajTofSustav();
 
-                var tofSustavClone1 = dzTofDirektor.TofSustav.Clone();
-                tofSustavClone1.Postavke.AlgoritamProvjere = TofTvornicaTestera.Instanca.ProizvediTestera(TipTestera.SEKVENCIJALNI);
+                dzTofDirektor.TofSustav.Pokreni();
 
-                var tofSustavClone2 = dzTofDirektor.TofSustav.Clone();
-                tofSustavClone2.Postavke.AlgoritamProvjere = TofTvornicaTestera.Instanca.ProizvediTestera(TipTestera.NASUMICNI);
-
-                Task.WaitAll(
-                    dzTofDirektor.TofSustav.Pokreni(),
-                    tofSustavClone1.Pokreni(),
-                    tofSustavClone2.Pokreni()
-                    ); 
+                /*
+                var tofSustavClone = dzTofDirektor.TofSustav.Clone();
+                tofSustavClone.Postavke.AlgoritamProvjere = TofTvornicaTestera.Instanca.ProizvediTestera(TipTestera.SEKVENCIJALNI);
+                tofSustavClone..Pokreni();
+                */
+                /*
+                var tofSustavClone = dzTofDirektor.TofSustav.Clone();
+                tofSustavClone1.Postavke.AlgoritamProvjere = TofTvornicaTestera.Instanca.ProizvediTestera(TipTestera.NASUMICNI);
+                tofSustavClone..Pokreni();
+                 */
+                /*
+                var tofSustavClone = dzTofDirektor.TofSustav.Clone();
+                tofSustavClone.Postavke.AlgoritamProvjere = TofTvornicaTestera.Instanca.ProizvediTestera(TipTestera.HIBRIDNI);
+                tofSustavClone..Pokreni();
+                */
             }
             catch (Exception ex)
-            {
-                AplikacijskiPomagac.Instanca.LogirajIznimku = ex;
-            } finally
-            {
-                AplikacijskiPomagac.Instanca.PohraniLogInformacije();
-            }
-        }
+           {
+               AplikacijskiPomagac.Instanca.LogirajIznimku = ex;
+           } finally
+           {
+               AplikacijskiPomagac.Instanca.PohraniLogInformacije();
+           }
+            var table = new ConsoleTable("#Uspješnih ciklusa", "#Neuspješnih ciklusa", "#Prosječno izvršavanje");
+            table.AddRow(
+                AplikacijskiPomagac.Instanca.Statistika.UspjesnihCiklusa,
+                AplikacijskiPomagac.Instanca.Statistika.NeuspjesnihCiklusa,
+                AplikacijskiPomagac.Instanca.Statistika.ProsjecnoTrajanjeCiklusa.ToString("N2") + " sec"
+                );
 
-        private static ITesterUredjaja DohvatiAlgoritamProvjereNasumicno(TofSustavPrototype tofSustavClone)
-        {
-            var max = Enum.GetNames(typeof(TipTestera)).Length + 1;
-            var tip = (TipTestera)(tofSustavClone.GeneratorBrojeva.Next(max));
-            return TofTvornicaTestera.Instanca.ProizvediTestera(tip);
-        }
-    }
+            table.Write(Format.Alternative);
+            Console.ReadKey();
+       }
+
+       private static ITesterUredjaja DohvatiAlgoritamProvjereNasumicno(TofSustavPrototype tofSustavClone)
+       {
+           var max = Enum.GetNames(typeof(TipTestera)).Length + 1;
+           var tip = (TipTestera)(tofSustavClone.GeneratorBrojeva.Next(max));
+           return TofTvornicaTestera.Instanca.ProizvediTestera(tip);
+       }
+   }
 }

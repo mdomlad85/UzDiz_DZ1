@@ -2,6 +2,7 @@
 using System.IO;
 using System.Text;
 using ToF.Builder.Prototype;
+using ToF.Model;
 
 namespace ToF.Singleton
 {
@@ -46,6 +47,7 @@ namespace ToF.Singleton
         private AplikacijskiPomagac()
         {
             _log = new StringBuilder();
+            _statistika = new Statistika();
         }      
 
         public string Logiraj
@@ -80,5 +82,9 @@ namespace ToF.Singleton
         }
 
         public TofSustavPrototype TofSustav { get; set; }
+
+        private Statistika _statistika;
+
+        public Statistika Statistika => _statistika;
     }
 }

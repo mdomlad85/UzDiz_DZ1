@@ -1,0 +1,6 @@
+E:\Faks\FOI\Moje\DS_2_GOD\UzDiz\Zadace\Solution\mdomladov_zadaca_1\ToF\bin\Debug\ToF.exe.config
+E:\Faks\FOI\Moje\DS_2_GOD\UzDiz\Zadace\Solution\mdomladov_zadaca_1\ToF\bin\Debug\ToF.exe
+E:\Faks\FOI\Moje\DS_2_GOD\UzDiz\Zadace\Solution\mdomladov_zadaca_1\ToF\bin\Debug\ToF.pdb
+E:\Faks\FOI\Moje\DS_2_GOD\UzDiz\Zadace\Solution\mdomladov_zadaca_1\ToF\obj\Debug\ToF.csprojResolveAssemblyReference.cache
+E:\Faks\FOI\Moje\DS_2_GOD\UzDiz\Zadace\Solution\mdomladov_zadaca_1\ToF\obj\Debug\ToF.exe
+E:\Faks\FOI\Moje\DS_2_GOD\UzDiz\Zadace\Solution\mdomladov_zadaca_1\ToF\obj\Debug\ToF.pdb

@@ -1,0 +1,678 @@
+8.11.2017. 23:14:27	Uređaj vlaga je ispravan
+8.11.2017. 23:14:27	Uređaj kontakt je ispravan
+8.11.2017. 23:14:27	Uređaj dizanje/spuštanje televizora je ispravan
+8.11.2017. 23:14:27	Uređaj kontakt je ispravan
+8.11.2017. 23:14:27	Uređaj unutarnja temperatura je ispravan
+8.11.2017. 23:14:27	Uređaj otvaranje/zatvaranje vrata je ispravan
+8.11.2017. 23:14:27	Uređaj vlaga je ispravan
+8.11.2017. 23:14:27	Uređaj kontakt je ispravan
+8.11.2017. 23:14:27	Uređaj svjetlo je ispravan
+8.11.2017. 23:14:27	Uređaj otvaranje/zatvaranje vrata je ispravan
+8.11.2017. 23:14:27	Uređaj prepreka je ispravan
+8.11.2017. 23:14:27	Uređaj dim je ispravan
+8.11.2017. 23:14:27	Uređaj kontakt je ispravan
+8.11.2017. 23:14:27	Uređaj paljenje/gašenje lampe je ispravan
+8.11.2017. 23:14:27	Uređaj dizanje/spuštanje platna za ploču je ispravan
+8.11.2017. 23:14:27	Uređaj dizanje/spuštanje televizora je ispravan
+8.11.2017. 23:14:27	Uređaj unutarnja temperatura je ispravan
+8.11.2017. 23:14:27	Uređaj kontakt je ispravan
+8.11.2017. 23:14:27	Uređaj svjetlo je ispravan
+8.11.2017. 23:14:27	Uređaj vlaga je ispravan
+8.11.2017. 23:14:27	Uređaj dizanje/spuštanje televizora je ispravan
+8.11.2017. 23:14:27	Uređaj paljenje/gašenje lampe je ispravan
+8.11.2017. 23:14:27	Uređaj unutarnja temperatura je ispravan
+8.11.2017. 23:14:27	Uređaj vlaga je neispravan
+8.11.2017. 23:14:27	Uređaj dim je ispravan
+8.11.2017. 23:14:27	Uređaj prepreka je ispravan
+8.11.2017. 23:14:27	Uređaj svjetlo je ispravan
+8.11.2017. 23:14:27	Uređaj kontakt je ispravan
+8.11.2017. 23:14:27	Uređaj snimanje kamerom je ispravan
+8.11.2017. 23:14:27	Uređaj dizanje/spuštanje platna za ploču je ispravan
+8.11.2017. 23:14:27	Uređaj paljenje/gašenje lampe je ispravan
+8.11.2017. 23:14:27	Uređaj dizanje/spuštanje televizora je ispravan
+8.11.2017. 23:14:27	Uređaj prepreka je ispravan
+8.11.2017. 23:14:27	Uređaj kontakt je ispravan
+8.11.2017. 23:14:27	Uređaj vlaga je neispravan
+8.11.2017. 23:14:27	Uređaj unutarnja temperatura je ispravan
+8.11.2017. 23:14:27	Uređaj paljenje/gašenje lampe je ispravan
+8.11.2017. 23:14:27	Uređaj otvaranje/zatvaranje vrata je ispravan
+8.11.2017. 23:14:27	Uređaj unutarnja temperatura je ispravan
+8.11.2017. 23:14:27	Uređaj kontakt je ispravan
+8.11.2017. 23:14:27	Uređaj dim je ispravan
+8.11.2017. 23:14:27	Uređaj vlaga je neispravan
+8.11.2017. 23:14:27	Uređaj svjetlo je ispravan
+8.11.2017. 23:14:27	Uređaj otvaranje/zatvaranje vrata je ispravan
+8.11.2017. 23:14:27	Uređaj paljenje/gašenje lampe je ispravan
+8.11.2017. 23:14:27	Uređaj snimanje kamerom je ispravan
+8.11.2017. 23:14:27	Počinje obrada mjesta...
+8.11.2017. 23:14:27	Start provjere mjesta hibridnim testerom
+8.11.2017. 23:14:27	Uređaj vlaga je neispravan
+8.11.2017. 23:14:27	Uređaj vlaga je zamijenjen sa unutarnja temperatura
+8.11.2017. 23:14:27	Uređaj kontakt je ispravan
+8.11.2017. 23:14:27	Uređaj svjetlo je ispravan
+8.11.2017. 23:14:27	Uređaj otvaranje/zatvaranje vrata je ispravan
+8.11.2017. 23:14:27	Uređaj vlaga je neispravan
+8.11.2017. 23:14:27	Uređaj vlaga je zamijenjen sa vanjska temperatura
+8.11.2017. 23:14:27	Uređaj kontakt je ispravan
+8.11.2017. 23:14:27	Uređaj dizanje/spuštanje televizora je ispravan
+8.11.2017. 23:14:27	Uređaj kontakt je ispravan
+8.11.2017. 23:14:27	Uređaj unutarnja temperatura je ispravan
+8.11.2017. 23:14:27	Uređaj otvaranje/zatvaranje vrata je ispravan
+8.11.2017. 23:14:27	Uređaj prepreka je ispravan
+8.11.2017. 23:14:27	Uređaj dim je ispravan
+8.11.2017. 23:14:27	Uređaj kontakt je ispravan
+8.11.2017. 23:14:27	Uređaj paljenje/gašenje lampe je ispravan
+8.11.2017. 23:14:27	Uređaj dizanje/spuštanje platna za ploču je neispravan
+8.11.2017. 23:14:27	Uređaj dizanje/spuštanje platna za ploču je zamijenjen sa dizanje/spuštanje rampe
+8.11.2017. 23:14:27	Uređaj dizanje/spuštanje televizora je ispravan
+8.11.2017. 23:14:27	Uređaj unutarnja temperatura je ispravan
+8.11.2017. 23:14:27	Uređaj kontakt je ispravan
+8.11.2017. 23:14:27	Uređaj svjetlo je ispravan
+8.11.2017. 23:14:27	Uređaj vlaga je neispravan
+8.11.2017. 23:14:27	Uređaj vlaga je zamijenjen sa vanjska temperatura
+8.11.2017. 23:14:27	Uređaj dizanje/spuštanje televizora je ispravan
+8.11.2017. 23:14:27	Uređaj paljenje/gašenje lampe je ispravan
+8.11.2017. 23:14:27	Uređaj unutarnja temperatura je ispravan
+8.11.2017. 23:14:27	Uređaj vlaga je neispravan
+8.11.2017. 23:14:27	Uređaj vlaga je zamijenjen sa unutarnja temperatura
+8.11.2017. 23:14:27	Uređaj dim je ispravan
+8.11.2017. 23:14:27	Uređaj prepreka je ispravan
+8.11.2017. 23:14:27	Uređaj svjetlo je ispravan
+8.11.2017. 23:14:27	Uređaj kontakt je ispravan
+8.11.2017. 23:14:27	Uređaj snimanje kamerom je ispravan
+8.11.2017. 23:14:27	Uređaj dizanje/spuštanje platna za ploču je ispravan
+8.11.2017. 23:14:27	Uređaj paljenje/gašenje lampe je ispravan
+8.11.2017. 23:14:27	Uređaj dizanje/spuštanje televizora je ispravan
+8.11.2017. 23:14:27	Uređaj prepreka je ispravan
+8.11.2017. 23:14:27	Uređaj kontakt je ispravan
+8.11.2017. 23:14:27	Uređaj vlaga je neispravan
+8.11.2017. 23:14:27	Uređaj vlaga je zamijenjen sa unutarnja temperatura
+8.11.2017. 23:14:27	Uređaj unutarnja temperatura je ispravan
+8.11.2017. 23:14:27	Uređaj paljenje/gašenje lampe je ispravan
+8.11.2017. 23:14:27	Uređaj otvaranje/zatvaranje vrata je neispravan
+8.11.2017. 23:14:27	Uređaj otvaranje/zatvaranje vrata je zamijenjen sa otvaranje/zatvaranje vrata
+8.11.2017. 23:14:27	Uređaj unutarnja temperatura je ispravan
+8.11.2017. 23:14:27	Uređaj kontakt je ispravan
+8.11.2017. 23:14:27	Uređaj dim je ispravan
+8.11.2017. 23:14:27	Uređaj vlaga je neispravan
+8.11.2017. 23:14:27	Uređaj vlaga je zamijenjen sa vlaga
+8.11.2017. 23:14:27	Uređaj svjetlo je ispravan
+8.11.2017. 23:14:27	Uređaj otvaranje/zatvaranje vrata je ispravan
+8.11.2017. 23:14:27	Uređaj paljenje/gašenje lampe je ispravan
+8.11.2017. 23:14:27	Uređaj snimanje kamerom je ispravan
+8.11.2017. 23:14:27	Kraj provjere mjesta hibridnim testerom
+8.11.2017. 23:14:27	Počinjem s obradom mjesta FOI 1 - ulazna vrata
+8.11.2017. 23:14:27	Vrijednost vanjska temperatura je -40 C
+8.11.2017. 23:14:27	Vrijednost kontakt je 0 
+8.11.2017. 23:14:27	Vrijednost dizanje/spuštanje televizora je 40 cm
+8.11.2017. 23:14:27	Završavam s obradom mjesta FOI 1 - ulazna vrata
+
+8.11.2017. 23:14:27	Počinjem s obradom mjesta FOI 1 - dvorišna vrata
+8.11.2017. 23:14:27	Vrijednost kontakt je 0 
+8.11.2017. 23:14:27	Vrijednost unutarnja temperatura je 0 C
+8.11.2017. 23:14:27	Vrijednost otvaranje/zatvaranje vrata je 1 
+8.11.2017. 23:14:27	Završavam s obradom mjesta FOI 1 - dvorišna vrata
+
+8.11.2017. 23:14:27	Počinjem s obradom mjesta FOI 1 - parkiralište
+8.11.2017. 23:14:27	Vrijednost unutarnja temperatura je 0 C
+8.11.2017. 23:14:27	Vrijednost kontakt je 0 
+8.11.2017. 23:14:27	Vrijednost svjetlo je 0 
+8.11.2017. 23:14:27	Vrijednost otvaranje/zatvaranje vrata je 0 
+8.11.2017. 23:14:27	Završavam s obradom mjesta FOI 1 - parkiralište
+
+8.11.2017. 23:14:27	Počinjem s obradom mjesta FOI 1 - vijećnica
+8.11.2017. 23:14:27	Vrijednost prepreka je 0 
+8.11.2017. 23:14:27	Vrijednost dim je 0 
+8.11.2017. 23:14:27	Vrijednost kontakt je 0 
+8.11.2017. 23:14:27	Vrijednost paljenje/gašenje lampe je 1 
+8.11.2017. 23:14:27	Vrijednost dizanje/spuštanje rampe je 1 
+8.11.2017. 23:14:27	Vrijednost dizanje/spuštanje televizora je 91 cm
+8.11.2017. 23:14:27	Završavam s obradom mjesta FOI 1 - vijećnica
+
+8.11.2017. 23:14:27	Počinjem s obradom mjesta FOI 1 - knjižnica
+8.11.2017. 23:14:27	Vrijednost unutarnja temperatura je 0 C
+8.11.2017. 23:14:27	Vrijednost kontakt je 0 
+8.11.2017. 23:14:27	Vrijednost svjetlo je 0 
+8.11.2017. 23:14:27	Vrijednost vanjska temperatura je -40 C
+8.11.2017. 23:14:27	Vrijednost dizanje/spuštanje televizora je 99 cm
+8.11.2017. 23:14:27	Vrijednost paljenje/gašenje lampe je 0 
+8.11.2017. 23:14:27	Završavam s obradom mjesta FOI 1 - knjižnica
+
+8.11.2017. 23:14:27	Počinjem s obradom mjesta FOI 1 - dvorana 1
+8.11.2017. 23:14:27	Vrijednost unutarnja temperatura je 0 C
+8.11.2017. 23:14:27	Vrijednost unutarnja temperatura je 0 C
+8.11.2017. 23:14:27	Vrijednost dim je 0 
+8.11.2017. 23:14:27	Vrijednost prepreka je 0 
+8.11.2017. 23:14:27	Vrijednost svjetlo je 0 
+8.11.2017. 23:14:27	Vrijednost kontakt je 0 
+8.11.2017. 23:14:27	Vrijednost snimanje kamerom je 1 
+8.11.2017. 23:14:27	Vrijednost dizanje/spuštanje platna za ploču je 24 cm
+8.11.2017. 23:14:27	Vrijednost paljenje/gašenje lampe je 1 
+8.11.2017. 23:14:27	Vrijednost dizanje/spuštanje televizora je 99 cm
+8.11.2017. 23:14:27	Završavam s obradom mjesta FOI 1 - dvorana 1
+
+8.11.2017. 23:14:27	Počinjem s obradom mjesta FOI 1 - restoran
+8.11.2017. 23:14:27	Vrijednost prepreka je 0 
+8.11.2017. 23:14:27	Vrijednost kontakt je 0 
+8.11.2017. 23:14:27	Vrijednost unutarnja temperatura je 0 C
+8.11.2017. 23:14:27	Vrijednost unutarnja temperatura je 0 C
+8.11.2017. 23:14:27	Vrijednost paljenje/gašenje lampe je 0 
+8.11.2017. 23:14:27	Vrijednost otvaranje/zatvaranje vrata je 1 
+8.11.2017. 23:14:27	Završavam s obradom mjesta FOI 1 - restoran
+
+8.11.2017. 23:14:27	Počinjem s obradom mjesta FOI 1 - sistem sala
+8.11.2017. 23:14:27	Vrijednost unutarnja temperatura je 0 C
+8.11.2017. 23:14:27	Vrijednost kontakt je 0 
+8.11.2017. 23:14:27	Vrijednost dim je 0 
+8.11.2017. 23:14:27	Vrijednost vlaga je 0 %
+8.11.2017. 23:14:27	Vrijednost svjetlo je 0 
+8.11.2017. 23:14:27	Vrijednost otvaranje/zatvaranje vrata je 0 
+8.11.2017. 23:14:27	Vrijednost paljenje/gašenje lampe je 1 
+8.11.2017. 23:14:27	Vrijednost snimanje kamerom je 0 
+8.11.2017. 23:14:27	Završavam s obradom mjesta FOI 1 - sistem sala
+
+8.11.2017. 23:14:27	...završila obrada mjesta nakon 0,0978553 sekundi
+8.11.2017. 23:14:27	Uspješno završen 1. ciklus 
+8.11.2017. 23:14:27	Počinje obrada mjesta...
+8.11.2017. 23:14:27	Start provjere mjesta hibridnim testerom
+8.11.2017. 23:14:27	Uređaj kontakt je ispravan
+8.11.2017. 23:14:27	Uređaj unutarnja temperatura je neispravan
+8.11.2017. 23:14:27	Uređaj unutarnja temperatura je zamijenjen sa prepreka
+8.11.2017. 23:14:27	Uređaj otvaranje/zatvaranje vrata je ispravan
+8.11.2017. 23:14:27	Uređaj prepreka je neispravan
+8.11.2017. 23:14:27	Uređaj prepreka je zamijenjen sa vanjska temperatura
+8.11.2017. 23:14:27	Uređaj dim je ispravan
+8.11.2017. 23:14:27	Uređaj kontakt je neispravan
+8.11.2017. 23:14:27	Uređaj kontakt je zamijenjen sa vanjska temperatura
+8.11.2017. 23:14:27	Uređaj paljenje/gašenje lampe je neispravan
+8.11.2017. 23:14:27	Uređaj paljenje/gašenje lampe je zamijenjen sa dizanje/spuštanje rampe
+8.11.2017. 23:14:27	Uređaj dizanje/spuštanje rampe je ispravan
+8.11.2017. 23:14:27	Uređaj dizanje/spuštanje televizora je ispravan
+8.11.2017. 23:14:27	Uređaj vanjska temperatura je ispravan
+8.11.2017. 23:14:27	Uređaj kontakt je ispravan
+8.11.2017. 23:14:27	Uređaj dizanje/spuštanje televizora je ispravan
+8.11.2017. 23:14:27	Uređaj unutarnja temperatura je ispravan
+8.11.2017. 23:14:27	Uređaj kontakt je ispravan
+8.11.2017. 23:14:27	Uređaj svjetlo je ispravan
+8.11.2017. 23:14:27	Uređaj otvaranje/zatvaranje vrata je ispravan
+8.11.2017. 23:14:27	Uređaj unutarnja temperatura je ispravan
+8.11.2017. 23:14:27	Uređaj kontakt je ispravan
+8.11.2017. 23:14:27	Uređaj svjetlo je ispravan
+8.11.2017. 23:14:27	Uređaj vanjska temperatura je ispravan
+8.11.2017. 23:14:27	Uređaj dizanje/spuštanje televizora je ispravan
+8.11.2017. 23:14:27	Uređaj paljenje/gašenje lampe je ispravan
+8.11.2017. 23:14:27	Uređaj unutarnja temperatura je ispravan
+8.11.2017. 23:14:27	Uređaj unutarnja temperatura je ispravan
+8.11.2017. 23:14:27	Uređaj dim je ispravan
+8.11.2017. 23:14:27	Uređaj prepreka je ispravan
+8.11.2017. 23:14:27	Uređaj svjetlo je ispravan
+8.11.2017. 23:14:27	Uređaj kontakt je ispravan
+8.11.2017. 23:14:27	Uređaj snimanje kamerom je ispravan
+8.11.2017. 23:14:27	Uređaj dizanje/spuštanje platna za ploču je neispravan
+8.11.2017. 23:14:27	Uređaj dizanje/spuštanje platna za ploču je zamijenjen sa otvaranje/zatvaranje vrata
+8.11.2017. 23:14:27	Uređaj paljenje/gašenje lampe je ispravan
+8.11.2017. 23:14:27	Uređaj dizanje/spuštanje televizora je ispravan
+8.11.2017. 23:14:27	Uređaj prepreka je ispravan
+8.11.2017. 23:14:27	Uređaj kontakt je ispravan
+8.11.2017. 23:14:27	Uređaj unutarnja temperatura je ispravan
+8.11.2017. 23:14:27	Uređaj unutarnja temperatura je neispravan
+8.11.2017. 23:14:27	Uređaj unutarnja temperatura je zamijenjen sa dim
+8.11.2017. 23:14:27	Uređaj paljenje/gašenje lampe je ispravan
+8.11.2017. 23:14:27	Uređaj otvaranje/zatvaranje vrata je neispravan
+8.11.2017. 23:14:27	Uređaj otvaranje/zatvaranje vrata je zamijenjen sa dizanje/spuštanje rampe
+8.11.2017. 23:14:27	Uređaj unutarnja temperatura je ispravan
+8.11.2017. 23:14:27	Uređaj kontakt je ispravan
+8.11.2017. 23:14:27	Uređaj dim je neispravan
+8.11.2017. 23:14:27	Uređaj dim je zamijenjen sa vlaga
+8.11.2017. 23:14:27	Uređaj vlaga je neispravan
+8.11.2017. 23:14:27	Uređaj vlaga je zamijenjen sa unutarnja temperatura
+8.11.2017. 23:14:27	Uređaj svjetlo je ispravan
+8.11.2017. 23:14:27	Uređaj otvaranje/zatvaranje vrata je ispravan
+8.11.2017. 23:14:27	Uređaj paljenje/gašenje lampe je ispravan
+8.11.2017. 23:14:27	Uređaj snimanje kamerom je ispravan
+8.11.2017. 23:14:27	Kraj provjere mjesta hibridnim testerom
+8.11.2017. 23:14:27	Počinjem s obradom mjesta FOI 1 - ulazna vrata
+8.11.2017. 23:14:27	Vrijednost vanjska temperatura je -40 C
+8.11.2017. 23:14:27	Vrijednost kontakt je 0 
+8.11.2017. 23:14:27	Vrijednost dizanje/spuštanje televizora je 100 cm
+8.11.2017. 23:14:27	Završavam s obradom mjesta FOI 1 - ulazna vrata
+
+8.11.2017. 23:14:27	Počinjem s obradom mjesta FOI 1 - dvorišna vrata
+8.11.2017. 23:14:27	Vrijednost kontakt je 0 
+8.11.2017. 23:14:27	Vrijednost prepreka je 0 
+8.11.2017. 23:14:27	Vrijednost otvaranje/zatvaranje vrata je 1 
+8.11.2017. 23:14:27	Završavam s obradom mjesta FOI 1 - dvorišna vrata
+
+8.11.2017. 23:14:27	Počinjem s obradom mjesta FOI 1 - parkiralište
+8.11.2017. 23:14:27	Vrijednost unutarnja temperatura je 0 C
+8.11.2017. 23:14:27	Vrijednost kontakt je 0 
+8.11.2017. 23:14:27	Vrijednost svjetlo je 0 
+8.11.2017. 23:14:27	Vrijednost otvaranje/zatvaranje vrata je 0 
+8.11.2017. 23:14:27	Završavam s obradom mjesta FOI 1 - parkiralište
+
+8.11.2017. 23:14:27	Počinjem s obradom mjesta FOI 1 - vijećnica
+8.11.2017. 23:14:27	Vrijednost vanjska temperatura je -40 C
+8.11.2017. 23:14:27	Vrijednost dim je 0 
+8.11.2017. 23:14:27	Vrijednost vanjska temperatura je -40 C
+8.11.2017. 23:14:27	Vrijednost dizanje/spuštanje rampe je 0 
+8.11.2017. 23:14:27	Vrijednost dizanje/spuštanje rampe je 1 
+8.11.2017. 23:14:28	Vrijednost dizanje/spuštanje televizora je 72 cm
+8.11.2017. 23:14:28	Završavam s obradom mjesta FOI 1 - vijećnica
+
+8.11.2017. 23:14:28	Počinjem s obradom mjesta FOI 1 - knjižnica
+8.11.2017. 23:14:28	Vrijednost unutarnja temperatura je 0 C
+8.11.2017. 23:14:28	Vrijednost kontakt je 0 
+8.11.2017. 23:14:28	Vrijednost svjetlo je 0 
+8.11.2017. 23:14:28	Vrijednost vanjska temperatura je -40 C
+8.11.2017. 23:14:28	Vrijednost dizanje/spuštanje televizora je 82 cm
+8.11.2017. 23:14:28	Vrijednost paljenje/gašenje lampe je 0 
+8.11.2017. 23:14:28	Završavam s obradom mjesta FOI 1 - knjižnica
+
+8.11.2017. 23:14:28	Počinjem s obradom mjesta FOI 1 - dvorana 1
+8.11.2017. 23:14:28	Vrijednost unutarnja temperatura je 0 C
+8.11.2017. 23:14:28	Vrijednost unutarnja temperatura je 0 C
+8.11.2017. 23:14:28	Vrijednost dim je 0 
+8.11.2017. 23:14:28	Vrijednost prepreka je 0 
+8.11.2017. 23:14:28	Vrijednost svjetlo je 0 
+8.11.2017. 23:14:28	Vrijednost kontakt je 0 
+8.11.2017. 23:14:28	Vrijednost snimanje kamerom je 1 
+8.11.2017. 23:14:28	Vrijednost otvaranje/zatvaranje vrata je 1 
+8.11.2017. 23:14:28	Vrijednost paljenje/gašenje lampe je 1 
+8.11.2017. 23:14:28	Vrijednost dizanje/spuštanje televizora je 92 cm
+8.11.2017. 23:14:28	Završavam s obradom mjesta FOI 1 - dvorana 1
+
+8.11.2017. 23:14:28	Počinjem s obradom mjesta FOI 1 - restoran
+8.11.2017. 23:14:28	Vrijednost prepreka je 0 
+8.11.2017. 23:14:28	Vrijednost kontakt je 0 
+8.11.2017. 23:14:28	Vrijednost dim je 0 
+8.11.2017. 23:14:28	Vrijednost unutarnja temperatura je 0 C
+8.11.2017. 23:14:28	Vrijednost paljenje/gašenje lampe je 0 
+8.11.2017. 23:14:28	Vrijednost dizanje/spuštanje rampe je 0 
+8.11.2017. 23:14:28	Završavam s obradom mjesta FOI 1 - restoran
+
+8.11.2017. 23:14:28	Počinjem s obradom mjesta FOI 1 - sistem sala
+8.11.2017. 23:14:28	Vrijednost unutarnja temperatura je 0 C
+8.11.2017. 23:14:28	Vrijednost kontakt je 0 
+8.11.2017. 23:14:28	Vrijednost unutarnja temperatura je 0 C
+8.11.2017. 23:14:28	Vrijednost vlaga je 0 %
+8.11.2017. 23:14:28	Vrijednost svjetlo je 0 
+8.11.2017. 23:14:28	Vrijednost otvaranje/zatvaranje vrata je 0 
+8.11.2017. 23:14:28	Vrijednost paljenje/gašenje lampe je 1 
+8.11.2017. 23:14:28	Vrijednost snimanje kamerom je 0 
+8.11.2017. 23:14:28	Završavam s obradom mjesta FOI 1 - sistem sala
+
+8.11.2017. 23:14:28	...završila obrada mjesta nakon 0,0910247 sekundi
+8.11.2017. 23:14:28	Uspješno završen 2. ciklus 
+8.11.2017. 23:14:28	Počinje obrada mjesta...
+8.11.2017. 23:14:28	Start provjere mjesta hibridnim testerom
+8.11.2017. 23:14:28	Uređaj vanjska temperatura je ispravan
+8.11.2017. 23:14:28	Uređaj dim je ispravan
+8.11.2017. 23:14:28	Uređaj vanjska temperatura je ispravan
+8.11.2017. 23:14:28	Uređaj dizanje/spuštanje rampe je ispravan
+8.11.2017. 23:14:28	Uređaj dizanje/spuštanje rampe je ispravan
+8.11.2017. 23:14:28	Uređaj dizanje/spuštanje televizora je ispravan
+8.11.2017. 23:14:28	Uređaj kontakt je ispravan
+8.11.2017. 23:14:28	Uređaj prepreka je ispravan
+8.11.2017. 23:14:28	Uređaj otvaranje/zatvaranje vrata je ispravan
+8.11.2017. 23:14:28	Uređaj unutarnja temperatura je ispravan
+8.11.2017. 23:14:28	Uređaj kontakt je ispravan
+8.11.2017. 23:14:28	Uređaj svjetlo je ispravan
+8.11.2017. 23:14:28	Uređaj otvaranje/zatvaranje vrata je ispravan
+8.11.2017. 23:14:28	Uređaj vanjska temperatura je ispravan
+8.11.2017. 23:14:28	Uređaj kontakt je ispravan
+8.11.2017. 23:14:28	Uređaj dizanje/spuštanje televizora je ispravan
+8.11.2017. 23:14:28	Uređaj unutarnja temperatura je ispravan
+8.11.2017. 23:14:28	Uređaj kontakt je ispravan
+8.11.2017. 23:14:28	Uređaj svjetlo je ispravan
+8.11.2017. 23:14:28	Uređaj vanjska temperatura je ispravan
+8.11.2017. 23:14:28	Uređaj dizanje/spuštanje televizora je neispravan
+8.11.2017. 23:14:28	Uređaj dizanje/spuštanje televizora je zamijenjen sa dizanje/spuštanje rampe
+8.11.2017. 23:14:28	Uređaj paljenje/gašenje lampe je ispravan
+8.11.2017. 23:14:28	Uređaj unutarnja temperatura je ispravan
+8.11.2017. 23:14:28	Uređaj unutarnja temperatura je ispravan
+8.11.2017. 23:14:28	Uređaj dim je ispravan
+8.11.2017. 23:14:28	Uređaj prepreka je ispravan
+8.11.2017. 23:14:28	Uređaj svjetlo je ispravan
+8.11.2017. 23:14:28	Uređaj kontakt je ispravan
+8.11.2017. 23:14:28	Uređaj snimanje kamerom je ispravan
+8.11.2017. 23:14:28	Uređaj otvaranje/zatvaranje vrata je ispravan
+8.11.2017. 23:14:28	Uređaj paljenje/gašenje lampe je ispravan
+8.11.2017. 23:14:28	Uređaj dizanje/spuštanje televizora je ispravan
+8.11.2017. 23:14:28	Uređaj prepreka je ispravan
+8.11.2017. 23:14:28	Uređaj kontakt je ispravan
+8.11.2017. 23:14:28	Uređaj dim je ispravan
+8.11.2017. 23:14:28	Uređaj unutarnja temperatura je neispravan
+8.11.2017. 23:14:28	Uređaj unutarnja temperatura je zamijenjen sa vanjska temperatura
+8.11.2017. 23:14:28	Uređaj paljenje/gašenje lampe je ispravan
+8.11.2017. 23:14:28	Uređaj dizanje/spuštanje rampe je ispravan
+8.11.2017. 23:14:28	Uređaj unutarnja temperatura je ispravan
+8.11.2017. 23:14:28	Uređaj kontakt je ispravan
+8.11.2017. 23:14:28	Uređaj unutarnja temperatura je ispravan
+8.11.2017. 23:14:28	Uređaj vlaga je neispravan
+8.11.2017. 23:14:28	Uređaj vlaga je zamijenjen sa vanjska temperatura
+8.11.2017. 23:14:28	Uređaj svjetlo je ispravan
+8.11.2017. 23:14:28	Uređaj otvaranje/zatvaranje vrata je neispravan
+8.11.2017. 23:14:28	Uređaj otvaranje/zatvaranje vrata je zamijenjen sa otvaranje/zatvaranje vrata
+8.11.2017. 23:14:28	Uređaj paljenje/gašenje lampe je neispravan
+8.11.2017. 23:14:28	Uređaj paljenje/gašenje lampe je zamijenjen sa otvaranje/zatvaranje vrata
+8.11.2017. 23:14:28	Uređaj snimanje kamerom je ispravan
+8.11.2017. 23:14:28	Kraj provjere mjesta hibridnim testerom
+8.11.2017. 23:14:28	Počinjem s obradom mjesta FOI 1 - ulazna vrata
+8.11.2017. 23:14:28	Vrijednost vanjska temperatura je -40 C
+8.11.2017. 23:14:28	Vrijednost kontakt je 0 
+8.11.2017. 23:14:28	Vrijednost dizanje/spuštanje televizora je 94 cm
+8.11.2017. 23:14:28	Završavam s obradom mjesta FOI 1 - ulazna vrata
+
+8.11.2017. 23:14:28	Počinjem s obradom mjesta FOI 1 - dvorišna vrata
+8.11.2017. 23:14:28	Vrijednost kontakt je 0 
+8.11.2017. 23:14:28	Vrijednost prepreka je 0 
+8.11.2017. 23:14:28	Vrijednost otvaranje/zatvaranje vrata je 1 
+8.11.2017. 23:14:28	Završavam s obradom mjesta FOI 1 - dvorišna vrata
+
+8.11.2017. 23:14:28	Počinjem s obradom mjesta FOI 1 - parkiralište
+8.11.2017. 23:14:28	Vrijednost unutarnja temperatura je 0 C
+8.11.2017. 23:14:28	Vrijednost kontakt je 0 
+8.11.2017. 23:14:28	Vrijednost svjetlo je 0 
+8.11.2017. 23:14:28	Vrijednost otvaranje/zatvaranje vrata je 0 
+8.11.2017. 23:14:28	Završavam s obradom mjesta FOI 1 - parkiralište
+
+8.11.2017. 23:14:28	Počinjem s obradom mjesta FOI 1 - vijećnica
+8.11.2017. 23:14:28	Vrijednost vanjska temperatura je -40 C
+8.11.2017. 23:14:28	Vrijednost dim je 0 
+8.11.2017. 23:14:28	Vrijednost vanjska temperatura je -40 C
+8.11.2017. 23:14:28	Vrijednost dizanje/spuštanje rampe je 1 
+8.11.2017. 23:14:28	Vrijednost dizanje/spuštanje rampe je 0 
+8.11.2017. 23:14:28	Vrijednost dizanje/spuštanje televizora je 99 cm
+8.11.2017. 23:14:28	Završavam s obradom mjesta FOI 1 - vijećnica
+
+8.11.2017. 23:14:28	Počinjem s obradom mjesta FOI 1 - knjižnica
+8.11.2017. 23:14:28	Vrijednost unutarnja temperatura je 0 C
+8.11.2017. 23:14:28	Vrijednost kontakt je 0 
+8.11.2017. 23:14:28	Vrijednost svjetlo je 0 
+8.11.2017. 23:14:28	Vrijednost vanjska temperatura je -40 C
+8.11.2017. 23:14:28	Vrijednost dizanje/spuštanje rampe je 1 
+8.11.2017. 23:14:28	Vrijednost paljenje/gašenje lampe je 0 
+8.11.2017. 23:14:28	Završavam s obradom mjesta FOI 1 - knjižnica
+
+8.11.2017. 23:14:28	Počinjem s obradom mjesta FOI 1 - dvorana 1
+8.11.2017. 23:14:28	Vrijednost unutarnja temperatura je 0 C
+8.11.2017. 23:14:28	Vrijednost unutarnja temperatura je 0 C
+8.11.2017. 23:14:28	Vrijednost dim je 0 
+8.11.2017. 23:14:28	Vrijednost prepreka je 0 
+8.11.2017. 23:14:28	Vrijednost svjetlo je 0 
+8.11.2017. 23:14:28	Vrijednost kontakt je 0 
+8.11.2017. 23:14:28	Vrijednost snimanje kamerom je 1 
+8.11.2017. 23:14:28	Vrijednost otvaranje/zatvaranje vrata je 1 
+8.11.2017. 23:14:28	Vrijednost paljenje/gašenje lampe je 1 
+8.11.2017. 23:14:28	Vrijednost dizanje/spuštanje televizora je 100 cm
+8.11.2017. 23:14:28	Završavam s obradom mjesta FOI 1 - dvorana 1
+
+8.11.2017. 23:14:28	Počinjem s obradom mjesta FOI 1 - restoran
+8.11.2017. 23:14:28	Vrijednost prepreka je 0 
+8.11.2017. 23:14:28	Vrijednost kontakt je 0 
+8.11.2017. 23:14:28	Vrijednost dim je 0 
+8.11.2017. 23:14:28	Vrijednost vanjska temperatura je -40 C
+8.11.2017. 23:14:28	Vrijednost paljenje/gašenje lampe je 0 
+8.11.2017. 23:14:28	Vrijednost dizanje/spuštanje rampe je 0 
+8.11.2017. 23:14:28	Završavam s obradom mjesta FOI 1 - restoran
+
+8.11.2017. 23:14:28	Počinjem s obradom mjesta FOI 1 - sistem sala
+8.11.2017. 23:14:28	Vrijednost unutarnja temperatura je 0 C
+8.11.2017. 23:14:28	Vrijednost kontakt je 0 
+8.11.2017. 23:14:28	Vrijednost unutarnja temperatura je 0 C
+8.11.2017. 23:14:28	Vrijednost vanjska temperatura je -40 C
+8.11.2017. 23:14:28	Vrijednost svjetlo je 0 
+8.11.2017. 23:14:28	Vrijednost otvaranje/zatvaranje vrata je 0 
+8.11.2017. 23:14:28	Vrijednost otvaranje/zatvaranje vrata je 1 
+8.11.2017. 23:14:28	Vrijednost snimanje kamerom je 0 
+8.11.2017. 23:14:28	Završavam s obradom mjesta FOI 1 - sistem sala
+
+8.11.2017. 23:14:28	...završila obrada mjesta nakon 0,0059953 sekundi
+8.11.2017. 23:14:28	Uspješno završen 3. ciklus 
+8.11.2017. 23:14:28	Počinje obrada mjesta...
+8.11.2017. 23:14:28	Start provjere mjesta hibridnim testerom
+8.11.2017. 23:14:28	Uređaj kontakt je neispravan
+8.11.2017. 23:14:28	Uređaj kontakt je zamijenjen sa unutarnja temperatura
+8.11.2017. 23:14:28	Uređaj prepreka je ispravan
+8.11.2017. 23:14:28	Uređaj otvaranje/zatvaranje vrata je ispravan
+8.11.2017. 23:14:28	Uređaj unutarnja temperatura je ispravan
+8.11.2017. 23:14:28	Uređaj kontakt je ispravan
+8.11.2017. 23:14:28	Uređaj svjetlo je ispravan
+8.11.2017. 23:14:28	Uređaj otvaranje/zatvaranje vrata je ispravan
+8.11.2017. 23:14:28	Uređaj vanjska temperatura je ispravan
+8.11.2017. 23:14:28	Uređaj dim je ispravan
+8.11.2017. 23:14:28	Uređaj vanjska temperatura je ispravan
+8.11.2017. 23:14:28	Uređaj dizanje/spuštanje rampe je ispravan
+8.11.2017. 23:14:28	Uređaj dizanje/spuštanje rampe je ispravan
+8.11.2017. 23:14:28	Uređaj dizanje/spuštanje televizora je ispravan
+8.11.2017. 23:14:28	Uređaj vanjska temperatura je ispravan
+8.11.2017. 23:14:28	Uređaj kontakt je ispravan
+8.11.2017. 23:14:28	Uređaj dizanje/spuštanje televizora je ispravan
+8.11.2017. 23:14:28	Uređaj unutarnja temperatura je ispravan
+8.11.2017. 23:14:28	Uređaj kontakt je ispravan
+8.11.2017. 23:14:28	Uređaj svjetlo je ispravan
+8.11.2017. 23:14:28	Uređaj vanjska temperatura je ispravan
+8.11.2017. 23:14:28	Uređaj dizanje/spuštanje rampe je ispravan
+8.11.2017. 23:14:28	Uređaj paljenje/gašenje lampe je ispravan
+8.11.2017. 23:14:28	Uređaj unutarnja temperatura je ispravan
+8.11.2017. 23:14:28	Uređaj unutarnja temperatura je ispravan
+8.11.2017. 23:14:28	Uređaj dim je ispravan
+8.11.2017. 23:14:28	Uređaj prepreka je ispravan
+8.11.2017. 23:14:28	Uređaj svjetlo je ispravan
+8.11.2017. 23:14:28	Uređaj kontakt je ispravan
+8.11.2017. 23:14:28	Uređaj snimanje kamerom je ispravan
+8.11.2017. 23:14:28	Uređaj otvaranje/zatvaranje vrata je ispravan
+8.11.2017. 23:14:28	Uređaj paljenje/gašenje lampe je ispravan
+8.11.2017. 23:14:28	Uređaj dizanje/spuštanje televizora je ispravan
+8.11.2017. 23:14:28	Uređaj prepreka je ispravan
+8.11.2017. 23:14:28	Uređaj kontakt je ispravan
+8.11.2017. 23:14:28	Uređaj dim je ispravan
+8.11.2017. 23:14:28	Uređaj vanjska temperatura je ispravan
+8.11.2017. 23:14:28	Uređaj paljenje/gašenje lampe je ispravan
+8.11.2017. 23:14:28	Uređaj dizanje/spuštanje rampe je ispravan
+8.11.2017. 23:14:28	Uređaj unutarnja temperatura je ispravan
+8.11.2017. 23:14:28	Uređaj kontakt je neispravan
+8.11.2017. 23:14:28	Uređaj kontakt je zamijenjen sa vanjska temperatura
+8.11.2017. 23:14:28	Uređaj unutarnja temperatura je ispravan
+8.11.2017. 23:14:28	Uređaj vanjska temperatura je ispravan
+8.11.2017. 23:14:28	Uređaj svjetlo je ispravan
+8.11.2017. 23:14:28	Uređaj otvaranje/zatvaranje vrata je ispravan
+8.11.2017. 23:14:28	Uređaj otvaranje/zatvaranje vrata je ispravan
+8.11.2017. 23:14:28	Uređaj snimanje kamerom je ispravan
+8.11.2017. 23:14:28	Kraj provjere mjesta hibridnim testerom
+8.11.2017. 23:14:28	Počinjem s obradom mjesta FOI 1 - ulazna vrata
+8.11.2017. 23:14:28	Vrijednost vanjska temperatura je -40 C
+8.11.2017. 23:14:28	Vrijednost kontakt je 0 
+8.11.2017. 23:14:28	Vrijednost dizanje/spuštanje televizora je 90 cm
+8.11.2017. 23:14:28	Završavam s obradom mjesta FOI 1 - ulazna vrata
+
+8.11.2017. 23:14:28	Počinjem s obradom mjesta FOI 1 - dvorišna vrata
+8.11.2017. 23:14:28	Vrijednost unutarnja temperatura je 0 C
+8.11.2017. 23:14:28	Vrijednost prepreka je 0 
+8.11.2017. 23:14:28	Vrijednost otvaranje/zatvaranje vrata je 0 
+8.11.2017. 23:14:28	Završavam s obradom mjesta FOI 1 - dvorišna vrata
+
+8.11.2017. 23:14:28	Počinjem s obradom mjesta FOI 1 - parkiralište
+8.11.2017. 23:14:28	Vrijednost unutarnja temperatura je 0 C
+8.11.2017. 23:14:28	Vrijednost kontakt je 0 
+8.11.2017. 23:14:28	Vrijednost svjetlo je 0 
+8.11.2017. 23:14:28	Vrijednost otvaranje/zatvaranje vrata je 1 
+8.11.2017. 23:14:28	Završavam s obradom mjesta FOI 1 - parkiralište
+
+8.11.2017. 23:14:28	Počinjem s obradom mjesta FOI 1 - vijećnica
+8.11.2017. 23:14:28	Vrijednost vanjska temperatura je -40 C
+8.11.2017. 23:14:28	Vrijednost dim je 0 
+8.11.2017. 23:14:28	Vrijednost vanjska temperatura je -40 C
+8.11.2017. 23:14:28	Vrijednost dizanje/spuštanje rampe je 1 
+8.11.2017. 23:14:28	Vrijednost dizanje/spuštanje rampe je 0 
+8.11.2017. 23:14:28	Vrijednost dizanje/spuštanje televizora je 95 cm
+8.11.2017. 23:14:28	Završavam s obradom mjesta FOI 1 - vijećnica
+
+8.11.2017. 23:14:28	Počinjem s obradom mjesta FOI 1 - knjižnica
+8.11.2017. 23:14:28	Vrijednost unutarnja temperatura je 0 C
+8.11.2017. 23:14:28	Vrijednost kontakt je 0 
+8.11.2017. 23:14:28	Vrijednost svjetlo je 0 
+8.11.2017. 23:14:28	Vrijednost vanjska temperatura je -40 C
+8.11.2017. 23:14:28	Vrijednost dizanje/spuštanje rampe je 1 
+8.11.2017. 23:14:28	Vrijednost paljenje/gašenje lampe je 1 
+8.11.2017. 23:14:28	Završavam s obradom mjesta FOI 1 - knjižnica
+
+8.11.2017. 23:14:28	Počinjem s obradom mjesta FOI 1 - dvorana 1
+8.11.2017. 23:14:28	Vrijednost unutarnja temperatura je 0 C
+8.11.2017. 23:14:28	Vrijednost unutarnja temperatura je 0 C
+8.11.2017. 23:14:28	Vrijednost dim je 0 
+8.11.2017. 23:14:28	Vrijednost prepreka je 0 
+8.11.2017. 23:14:28	Vrijednost svjetlo je 0 
+8.11.2017. 23:14:28	Vrijednost kontakt je 0 
+8.11.2017. 23:14:28	Vrijednost snimanje kamerom je 1 
+8.11.2017. 23:14:28	Vrijednost otvaranje/zatvaranje vrata je 0 
+8.11.2017. 23:14:28	Vrijednost paljenje/gašenje lampe je 0 
+8.11.2017. 23:14:28	Vrijednost dizanje/spuštanje televizora je 100 cm
+8.11.2017. 23:14:28	Završavam s obradom mjesta FOI 1 - dvorana 1
+
+8.11.2017. 23:14:28	Počinjem s obradom mjesta FOI 1 - restoran
+8.11.2017. 23:14:28	Vrijednost prepreka je 0 
+8.11.2017. 23:14:28	Vrijednost kontakt je 0 
+8.11.2017. 23:14:28	Vrijednost dim je 0 
+8.11.2017. 23:14:28	Vrijednost vanjska temperatura je -40 C
+8.11.2017. 23:14:28	Vrijednost paljenje/gašenje lampe je 1 
+8.11.2017. 23:14:28	Vrijednost dizanje/spuštanje rampe je 0 
+8.11.2017. 23:14:28	Završavam s obradom mjesta FOI 1 - restoran
+
+8.11.2017. 23:14:28	Počinjem s obradom mjesta FOI 1 - sistem sala
+8.11.2017. 23:14:28	Vrijednost unutarnja temperatura je 0 C
+8.11.2017. 23:14:28	Vrijednost vanjska temperatura je -40 C
+8.11.2017. 23:14:28	Vrijednost unutarnja temperatura je 0 C
+8.11.2017. 23:14:28	Vrijednost vanjska temperatura je -40 C
+8.11.2017. 23:14:28	Vrijednost svjetlo je 0 
+8.11.2017. 23:14:28	Vrijednost otvaranje/zatvaranje vrata je 1 
+8.11.2017. 23:14:28	Vrijednost otvaranje/zatvaranje vrata je 0 
+8.11.2017. 23:14:28	Vrijednost snimanje kamerom je 0 
+8.11.2017. 23:14:28	Završavam s obradom mjesta FOI 1 - sistem sala
+
+8.11.2017. 23:14:28	...završila obrada mjesta nakon 0,0060012 sekundi
+8.11.2017. 23:14:28	Uspješno završen 4. ciklus 
+8.11.2017. 23:14:28	Počinje obrada mjesta...
+8.11.2017. 23:14:28	Start provjere mjesta hibridnim testerom
+8.11.2017. 23:14:28	Uređaj vanjska temperatura je ispravan
+8.11.2017. 23:14:28	Uređaj kontakt je ispravan
+8.11.2017. 23:14:28	Uređaj dizanje/spuštanje televizora je ispravan
+8.11.2017. 23:14:28	Uređaj unutarnja temperatura je ispravan
+8.11.2017. 23:14:28	Uređaj prepreka je ispravan
+8.11.2017. 23:14:28	Uređaj otvaranje/zatvaranje vrata je ispravan
+8.11.2017. 23:14:28	Uređaj unutarnja temperatura je ispravan
+8.11.2017. 23:14:28	Uređaj kontakt je ispravan
+8.11.2017. 23:14:28	Uređaj svjetlo je ispravan
+8.11.2017. 23:14:28	Uređaj otvaranje/zatvaranje vrata je ispravan
+8.11.2017. 23:14:28	Uređaj vanjska temperatura je ispravan
+8.11.2017. 23:14:28	Uređaj dim je ispravan
+8.11.2017. 23:14:28	Uređaj vanjska temperatura je ispravan
+8.11.2017. 23:14:28	Uređaj dizanje/spuštanje rampe je ispravan
+8.11.2017. 23:14:28	Uređaj dizanje/spuštanje rampe je ispravan
+8.11.2017. 23:14:28	Uređaj dizanje/spuštanje televizora je ispravan
+8.11.2017. 23:14:28	Uređaj unutarnja temperatura je ispravan
+8.11.2017. 23:14:28	Uređaj kontakt je ispravan
+8.11.2017. 23:14:28	Uređaj svjetlo je ispravan
+8.11.2017. 23:14:28	Uređaj vanjska temperatura je neispravan
+8.11.2017. 23:14:28	Uređaj vanjska temperatura je zamijenjen sa svjetlo
+8.11.2017. 23:14:28	Uređaj dizanje/spuštanje rampe je ispravan
+8.11.2017. 23:14:28	Uređaj paljenje/gašenje lampe je ispravan
+8.11.2017. 23:14:28	Uređaj unutarnja temperatura je neispravan
+8.11.2017. 23:14:28	Uređaj unutarnja temperatura je zamijenjen sa prepreka
+8.11.2017. 23:14:28	Uređaj unutarnja temperatura je ispravan
+8.11.2017. 23:14:28	Uređaj dim je ispravan
+8.11.2017. 23:14:28	Uređaj prepreka je ispravan
+8.11.2017. 23:14:28	Uređaj svjetlo je neispravan
+8.11.2017. 23:14:28	Uređaj svjetlo je zamijenjen sa vanjska temperatura
+8.11.2017. 23:14:28	Uređaj kontakt je ispravan
+8.11.2017. 23:14:28	Uređaj snimanje kamerom je ispravan
+8.11.2017. 23:14:28	Uređaj otvaranje/zatvaranje vrata je ispravan
+8.11.2017. 23:14:28	Uređaj paljenje/gašenje lampe je ispravan
+8.11.2017. 23:14:28	Uređaj dizanje/spuštanje televizora je ispravan
+8.11.2017. 23:14:28	Uređaj prepreka je ispravan
+8.11.2017. 23:14:28	Uređaj kontakt je ispravan
+8.11.2017. 23:14:28	Uređaj dim je ispravan
+8.11.2017. 23:14:28	Uređaj vanjska temperatura je ispravan
+8.11.2017. 23:14:28	Uređaj paljenje/gašenje lampe je ispravan
+8.11.2017. 23:14:28	Uređaj dizanje/spuštanje rampe je ispravan
+8.11.2017. 23:14:28	Uređaj unutarnja temperatura je ispravan
+8.11.2017. 23:14:28	Uređaj vanjska temperatura je ispravan
+8.11.2017. 23:14:28	Uređaj unutarnja temperatura je ispravan
+8.11.2017. 23:14:28	Uređaj vanjska temperatura je ispravan
+8.11.2017. 23:14:28	Uređaj svjetlo je ispravan
+8.11.2017. 23:14:28	Uređaj otvaranje/zatvaranje vrata je ispravan
+8.11.2017. 23:14:28	Uređaj otvaranje/zatvaranje vrata je ispravan
+8.11.2017. 23:14:28	Uređaj snimanje kamerom je ispravan
+8.11.2017. 23:14:28	Kraj provjere mjesta hibridnim testerom
+8.11.2017. 23:14:28	Počinjem s obradom mjesta FOI 1 - ulazna vrata
+8.11.2017. 23:14:28	Vrijednost vanjska temperatura je -40 C
+8.11.2017. 23:14:28	Vrijednost kontakt je 0 
+8.11.2017. 23:14:28	Vrijednost dizanje/spuštanje televizora je 47 cm
+8.11.2017. 23:14:28	Završavam s obradom mjesta FOI 1 - ulazna vrata
+
+8.11.2017. 23:14:28	Počinjem s obradom mjesta FOI 1 - dvorišna vrata
+8.11.2017. 23:14:28	Vrijednost unutarnja temperatura je 0 C
+8.11.2017. 23:14:28	Vrijednost prepreka je 0 
+8.11.2017. 23:14:28	Vrijednost otvaranje/zatvaranje vrata je 1 
+8.11.2017. 23:14:28	Završavam s obradom mjesta FOI 1 - dvorišna vrata
+
+8.11.2017. 23:14:28	Počinjem s obradom mjesta FOI 1 - parkiralište
+8.11.2017. 23:14:28	Vrijednost unutarnja temperatura je 0 C
+8.11.2017. 23:14:28	Vrijednost kontakt je 0 
+8.11.2017. 23:14:28	Vrijednost svjetlo je 0 
+8.11.2017. 23:14:28	Vrijednost otvaranje/zatvaranje vrata je 0 
+8.11.2017. 23:14:28	Završavam s obradom mjesta FOI 1 - parkiralište
+
+8.11.2017. 23:14:28	Počinjem s obradom mjesta FOI 1 - vijećnica
+8.11.2017. 23:14:28	Vrijednost vanjska temperatura je -40 C
+8.11.2017. 23:14:28	Vrijednost dim je 0 
+8.11.2017. 23:14:28	Vrijednost vanjska temperatura je -40 C
+8.11.2017. 23:14:28	Vrijednost dizanje/spuštanje rampe je 1 
+8.11.2017. 23:14:28	Vrijednost dizanje/spuštanje rampe je 0 
+8.11.2017. 23:14:28	Vrijednost dizanje/spuštanje televizora je 67 cm
+8.11.2017. 23:14:28	Završavam s obradom mjesta FOI 1 - vijećnica
+
+8.11.2017. 23:14:28	Počinjem s obradom mjesta FOI 1 - knjižnica
+8.11.2017. 23:14:28	Vrijednost unutarnja temperatura je 0 C
+8.11.2017. 23:14:28	Vrijednost kontakt je 0 
+8.11.2017. 23:14:28	Vrijednost svjetlo je 0 
+8.11.2017. 23:14:28	Vrijednost svjetlo je 0 
+8.11.2017. 23:14:28	Vrijednost dizanje/spuštanje rampe je 1 
+8.11.2017. 23:14:28	Vrijednost paljenje/gašenje lampe je 0 
+8.11.2017. 23:14:28	Završavam s obradom mjesta FOI 1 - knjižnica
+
+8.11.2017. 23:14:28	Počinjem s obradom mjesta FOI 1 - dvorana 1
+8.11.2017. 23:14:28	Vrijednost prepreka je 0 
+8.11.2017. 23:14:28	Vrijednost unutarnja temperatura je 0 C
+8.11.2017. 23:14:28	Vrijednost dim je 0 
+8.11.2017. 23:14:28	Vrijednost prepreka je 0 
+8.11.2017. 23:14:28	Vrijednost vanjska temperatura je -40 C
+8.11.2017. 23:14:28	Vrijednost kontakt je 0 
+8.11.2017. 23:14:28	Vrijednost snimanje kamerom je 1 
+8.11.2017. 23:14:28	Vrijednost otvaranje/zatvaranje vrata je 1 
+8.11.2017. 23:14:28	Vrijednost paljenje/gašenje lampe je 1 
+8.11.2017. 23:14:28	Vrijednost dizanje/spuštanje televizora je 91 cm
+8.11.2017. 23:14:28	Završavam s obradom mjesta FOI 1 - dvorana 1
+
+8.11.2017. 23:14:28	Počinjem s obradom mjesta FOI 1 - restoran
+8.11.2017. 23:14:28	Vrijednost prepreka je 0 
+8.11.2017. 23:14:28	Vrijednost kontakt je 0 
+8.11.2017. 23:14:28	Vrijednost dim je 0 
+8.11.2017. 23:14:28	Vrijednost vanjska temperatura je -40 C
+8.11.2017. 23:14:28	Vrijednost paljenje/gašenje lampe je 0 
+8.11.2017. 23:14:28	Vrijednost dizanje/spuštanje rampe je 0 
+8.11.2017. 23:14:28	Završavam s obradom mjesta FOI 1 - restoran
+
+8.11.2017. 23:14:28	Počinjem s obradom mjesta FOI 1 - sistem sala
+8.11.2017. 23:14:28	Vrijednost unutarnja temperatura je 0 C
+8.11.2017. 23:14:28	Vrijednost vanjska temperatura je -40 C
+8.11.2017. 23:14:28	Vrijednost unutarnja temperatura je 0 C
+8.11.2017. 23:14:28	Vrijednost vanjska temperatura je -40 C
+8.11.2017. 23:14:28	Vrijednost svjetlo je 0 
+8.11.2017. 23:14:28	Vrijednost otvaranje/zatvaranje vrata je 0 
+8.11.2017. 23:14:28	Vrijednost otvaranje/zatvaranje vrata je 1 
+8.11.2017. 23:14:28	Vrijednost snimanje kamerom je 0 
+8.11.2017. 23:14:28	Završavam s obradom mjesta FOI 1 - sistem sala
+
+8.11.2017. 23:14:28	...završila obrada mjesta nakon 0,0079999 sekundi
+8.11.2017. 23:14:28	Uspješno završen 5. ciklus 

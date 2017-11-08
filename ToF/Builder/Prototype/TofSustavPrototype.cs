@@ -123,32 +123,53 @@ namespace ToF.Builder.Prototype
             }
         }
 
-        public async Task Pokreni()
+        public void Pokreni()
         {
-            var that = this;
-            await Task.Run(() =>
+            for (int i = 0; i < Postavke.BrojCiklusaDretve; i++)
             {
-                for (int i = 0; i < that.Postavke.BrojCiklusaDretve; i++)
+                if (DoHardWork())
                 {
-                    AplikacijskiPomagac.Instanca.Logiraj = "Počinje obrada mjesta...";
-                    var startTime = DateTime.Now;
-
-                    lock (syncLock)
-                    {
-                        that.Postavke.AlgoritamProvjere.ProvjeriMjesta(that._mjesta);
-                    }
-                    that.Mjesta.AktivirajUredjaje();
-
-                    var totalSec = (DateTime.Now - startTime).TotalSeconds;
-                    var diff = that.Postavke.TrajanjeDretveSek - totalSec;
-                    AplikacijskiPomagac.Instanca.Logiraj = String.Format("...završila obrada mjesta nakon {0} sekundi", totalSec);
-
-                    if (diff > 0)
-                    {
-                        Thread.Sleep((int)diff * 1000);
-                    }
+                    AplikacijskiPomagac.Instanca.Statistika.UspjesnihCiklusa++;
+                    AplikacijskiPomagac.Instanca.Logiraj = string.Format("Uspješno završen {0}. ciklus ", i + 1);
+                } else
+                {
+                    AplikacijskiPomagac.Instanca.Statistika.NeuspjesnihCiklusa++;
+                    AplikacijskiPomagac.Instanca.Logiraj = string.Format("Isteklo je vrijeme u {0}. ciklusu ", i + 1);
                 }
-            });
+            }
+            AplikacijskiPomagac.Instanca.Statistika.ProsjecnoTrajanjeCiklusa /= Postavke.BrojCiklusaDretve;
+        }
+
+        private bool DoHardWork()
+        {
+            Thread workerThread = new Thread(new ThreadStart(Run));
+            workerThread.Start();
+            bool finished = workerThread.Join(new TimeSpan(0, 0, Postavke.TrajanjeDretveSek));
+
+            if (!finished)
+            {
+                workerThread.Abort();
+                AplikacijskiPomagac.Instanca.Statistika.ProsjecnoTrajanjeCiklusa += Postavke.TrajanjeDretveSek;
+            }
+
+            return finished;
+        }
+
+        public void Run()
+        {
+            AplikacijskiPomagac.Instanca.Logiraj = "Počinje obrada mjesta...";
+            var startTime = DateTime.Now;
+
+            lock (syncLock)
+            {
+                Postavke.AlgoritamProvjere.ProvjeriMjesta(_mjesta);
+            }
+            Mjesta.AktivirajUredjaje();
+
+            var totalSec = (DateTime.Now - startTime).TotalSeconds;
+            var diff = Postavke.TrajanjeDretveSek - totalSec;
+            AplikacijskiPomagac.Instanca.Logiraj = string.Format("...završila obrada mjesta nakon {0} sekundi", totalSec);
+            AplikacijskiPomagac.Instanca.Statistika.ProsjecnoTrajanjeCiklusa += diff;
         }
     }
 }
